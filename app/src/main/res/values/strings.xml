@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Intents Demo</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="login">login</string>
+    <string name="member">Not a member? Sign Up.</string>
+    <string name="type_user">type in your username</string>
+    <string name="type_name">type in your name</string>
+    <string name="type_password">type in your password</string>
+    <string name="repeat_password">repeat your password</string>
+    <string name="create">create</string>
+</resources>
